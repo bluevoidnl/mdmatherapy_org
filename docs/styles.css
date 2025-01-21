@@ -1,0 +1,109 @@
+:root {
+    --topBannerHeight: 50px;
+    --padding: 16px;
+    --pageWidth: 1200px;
+}
+
+.top-banner {
+    display: flex; /* Align image and text side by side */
+    align-items: center; /* Vertically align image and text */
+    gap: 20px; /* Space between the image and text */
+    padding-left: 16px;
+    position: fixed;
+    top: 0;
+    width: var(--pageWidth);
+    background-color: #673AB7; /* Adjust color as needed */
+    color: #fff; /* Text color */
+    text-align: center;
+    z-index: 1000; /* Ensure it stays above other elements */
+    /* box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow for better visibility */
+    font-size: 16px; /* Adjust font size */
+    height: 50px; /* Set the height explicitly */
+    margin: 0 auto;
+}
+
+.logo-header{
+    width: 20px;
+    height: 20px;
+}
+
+.banner-link {
+    color: white;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    max-width: var(--pageWidth); /* Adjust this value to control the page width */
+    margin: 0 auto; /* Center the page horizontally */
+}
+
+.menu {
+    position: sticky;
+    top: var(--topBannerHeight);
+    width: 250px;
+    padding-top: var(--padding);
+    background-color: #f4f4f4;
+    height: 100vh;
+    overflow-y: auto;
+}
+
+.menu a {
+    display: block;
+    padding: 8px;
+
+    text-decoration: none;
+    color: #673AB7;
+}
+
+.menu a:hover {
+    background-color: #ddd;
+}
+
+.menu .submenu a {
+    padding-left: 20px;
+}
+
+.languageMenu {
+    position: sticky;
+    width: 130px;
+    top: var(--topBannerHeight);
+    padding-top: var(--padding);
+    height: 100vh;
+    overflow-y: auto;
+}
+
+.languageMenu a {
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+    color: #333;
+}
+
+.selected  {
+    background-color:  #f4f4f4;
+}
+
+.content {
+    flex: 1;
+    padding-left: 20px;
+    right: 20px;
+    padding-top: var(--topBannerHeight);
+    margin-top: var(--padding);
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+section h2 {
+    margin-top: 0;
+}
+
+section h3 {
+    margin-top: 20px;
+}
