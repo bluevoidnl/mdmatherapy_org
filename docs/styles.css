@@ -36,6 +36,10 @@ body {
     font-family: Arial, sans-serif;
 }
 
+html {
+    scroll-padding-top: 65px; /* Matches the height of the fixed banner + padding*/
+}
+
 .container {
     display: flex;
     max-width: var(--pageWidth); /* Adjust this value to control the page width */
