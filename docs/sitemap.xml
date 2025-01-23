@@ -1,31 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mdma-therapy.org/index.html</loc>
     <lastmod>2025-01-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="nl" href="http://mdma-therapy.org/dutch/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="http://mdma-therapy.org/german/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://mdma-therapy.org/spanish/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://mdma-therapy.org/french/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="http://mdma-therapy.org/italian/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="http://mdma-therapy.org/arabic/mdma-therapy-guide.html"/>
   </url>
   <url>
     <loc>http://mdma-therapy.org/dutch/mdma-therapy-guide.html</loc>
     <lastmod>2025-01-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="http://mdma-therapy.org/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="http://mdma-therapy.org/german/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://mdma-therapy.org/spanish/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://mdma-therapy.org/french/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="http://mdma-therapy.org/italian/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="http://mdma-therapy.org/arabic/mdma-therapy-guide.html"/>
   </url>
   <url>
     <loc>http://mdma-therapy.org/german/mdma-therapy-guide.html</loc>
     <lastmod>2025-01-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="http://mdma-therapy.org/index.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="http://mdma-therapy.org/dutch/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://mdma-therapy.org/spanish/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://mdma-therapy.org/french/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="http://mdma-therapy.org/italian/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="http://mdma-therapy.org/arabic/mdma-therapy-guide.html"/>
   </url>
   <url>
     <loc>http://mdma-therapy.org/spanish/mdma-therapy-guide.html</loc>
     <lastmod>2025-01-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="http://mdma-therapy.org/index.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="http://mdma-therapy.org/dutch/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="http://mdma-therapy.org/german/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://mdma-therapy.org/french/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="http://mdma-therapy.org/italian/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="http://mdma-therapy.org/arabic/mdma-therapy-guide.html"/>
   </url>
   <url>
     <loc>http://mdma-therapy.org/french/mdma-therapy-guide.html</loc>
     <lastmod>2025-01-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="http://mdma-therapy.org/index.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="http://mdma-therapy.org/dutch/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="http://mdma-therapy.org/german/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://mdma-therapy.org/spanish/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="http://mdma-therapy.org/italian/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="http://mdma-therapy.org/arabic/mdma-therapy-guide.html"/>
   </url>
   <url>
     <loc>http://mdma-therapy.org/italian/mdma-therapy-guide.html</loc>
     <lastmod>2025-01-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="http://mdma-therapy.org/index.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="http://mdma-therapy.org/dutch/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="http://mdma-therapy.org/german/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://mdma-therapy.org/spanish/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://mdma-therapy.org/french/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="http://mdma-therapy.org/arabic/mdma-therapy-guide.html"/>
   </url>
   <url>
     <loc>http://mdma-therapy.org/arabic/mdma-therapy-guide.html</loc>
     <lastmod>2025-01-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="http://mdma-therapy.org/index.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="http://mdma-therapy.org/dutch/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="http://mdma-therapy.org/german/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://mdma-therapy.org/spanish/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://mdma-therapy.org/french/mdma-therapy-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="http://mdma-therapy.org/italian/mdma-therapy-guide.html"/>
   </url>
 </urlset>
