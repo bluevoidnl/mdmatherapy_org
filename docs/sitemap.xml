@@ -1,45 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>index.html</loc>
+    <loc>http://mdma-therapy.org/index.html</loc>
     <lastmod>2025-01-23</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1.0</priority>
   </url>
   <url>
-    <loc>Dutch.html</loc>
+    <loc>http://mdma-therapy.org/Dutch.html</loc>
     <lastmod>2025-01-23</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.9</priority>
   </url>
   <url>
-    <loc>German.html</loc>
+    <loc>http://mdma-therapy.org/German.html</loc>
     <lastmod>2025-01-23</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.9</priority>
   </url>
   <url>
-    <loc>Spanish.html</loc>
+    <loc>http://mdma-therapy.org/Spanish.html</loc>
     <lastmod>2025-01-23</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.9</priority>
   </url>
   <url>
-    <loc>French.html</loc>
+    <loc>http://mdma-therapy.org/French.html</loc>
     <lastmod>2025-01-23</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.9</priority>
   </url>
   <url>
-    <loc>Italian.html</loc>
+    <loc>http://mdma-therapy.org/Italian.html</loc>
     <lastmod>2025-01-23</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.9</priority>
   </url>
   <url>
-    <loc>Arabic.html</loc>
+    <loc>http://mdma-therapy.org/Arabic.html</loc>
     <lastmod>2025-01-23</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.9</priority>
   </url>
 </urlset>
