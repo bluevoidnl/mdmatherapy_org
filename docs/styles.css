@@ -31,6 +31,8 @@
     color: white;
 }
 
+
+
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -49,7 +51,7 @@ html {
 .menu {
     position: sticky;
     top: var(--topBannerHeight);
-    width: 250px;
+    width: 220px;
     padding-top: var(--padding);
     background-color: #f4f4f4;
     height: 100vh;
@@ -95,7 +97,7 @@ html {
 .content {
     flex: 1;
     padding-left: 20px;
-    right: 20px;
+    padding-right: 20px;
     padding-top: var(--topBannerHeight);
     margin-top: var(--padding);
 }
