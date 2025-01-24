@@ -31,8 +31,6 @@
     color: white;
 }
 
-
-
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -72,6 +70,7 @@ html {
 
 .menu .submenu a {
     padding-left: 20px;
+    padding-right: 20px;
 }
 
 .languageMenu {
